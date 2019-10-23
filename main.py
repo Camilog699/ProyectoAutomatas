@@ -7,5 +7,4 @@ def main():
     automaton.AddRoot(4, 0, [], 'L')
     GUI(automaton)
 
-
 main()
